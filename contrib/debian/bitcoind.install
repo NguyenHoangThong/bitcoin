@@ -1,2 +1,2 @@
-usr/local/bin/bitcoind usr/bin
-usr/local/bin/bitcoin-cli usr/bin
+usr/local/bin/testcoind usr/bin
+usr/local/bin/testcoin-cli usr/bin
